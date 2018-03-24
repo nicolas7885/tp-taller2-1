@@ -2,6 +2,6 @@ language: node_js
 node_js:
   - "8.10"
 install:
-  - npm install
+  - cd shared-server/ && npm install
 script: 
-  - npm test
+  - cd shared-server/ && npm test
