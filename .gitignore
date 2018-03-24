@@ -12,3 +12,5 @@ logs
 controller/.hidden
 bin/.hidden
 routes/.hidden
+
+node_modules/
