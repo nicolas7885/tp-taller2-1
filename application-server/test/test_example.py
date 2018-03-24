@@ -1,5 +1,5 @@
 import unittest
-import example
+import ../example
 import requests
 import json
 import sys
